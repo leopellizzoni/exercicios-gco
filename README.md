@@ -21,3 +21,5 @@ Criação de branches feat ou bug deve usar o dev como base
 
 Criação de hotfix deve usar o Branch main
 
+Finalização do nosso ajuste
+
